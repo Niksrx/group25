@@ -1,0 +1,3 @@
+<xml>
+<name>Kot</name>
+<role>administrator</role>
